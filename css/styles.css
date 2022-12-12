@@ -11,13 +11,22 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color:DodgerBlue;
+    font-size: 200%
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
     font-family:'Calibri';
-    font-size: 500%;
+    font-size: 450%;
+}
+h2 {
+    font-family:'Calibri';
+    font-size: 300%;
+}
+h6 {
+    font-family:'Calibri';
+    font-size: 100%;
 }
 p {
     font-size: 1.5em;
