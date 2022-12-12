@@ -10,7 +10,7 @@
   <h2>Job Postings</h2>
   <p>Updated December 11th, 2022</p>
   <p> Johns Hopkins Bloomberg School of Public Health- Research Program Coordinator </p>
-  <a href="https://www.linkedin.com/jobs/collections/top-applicant/?currentJobId=3388845968"</a>
+  <a href="https://www.linkedin.com/jobs/collections/top-applicant/?currentJobId=3388845968">This is a link</a>
 
  https://www.linkedin.com/jobs/collections/top-applicant/?currentJobId=3388845968
 </body>
