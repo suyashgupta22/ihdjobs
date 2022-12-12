@@ -10,7 +10,8 @@
   <h2>Job Postings</h2>
   <h6>Updated December 11th, 2022</h6>
   <a href="https://www.linkedin.com/jobs/collections/top-applicant/?currentJobId=3388845968">Johns Hopkins Bloomberg School of Public Health- Research Program Coordinator</a>
-<p><b>Salary Range</b></h5>
+<p><b>Salary Range:</b> $16.75-$23.00/hr</h5>
+ <p><b>Location:</b> Hybrid/Baltimore, MD</p>
   
 
 </body>
