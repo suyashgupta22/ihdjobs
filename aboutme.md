@@ -1,3 +1,7 @@
+layout: page
+title: "ABOUT-ME"
+permalink: /about
+
 <!DOCTYPE html>
 <html>
 <body>
