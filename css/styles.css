@@ -11,38 +11,80 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color:DodgerBlue;
-    font-size: 200%;
+    font-size: 100%;
 }
 a:hover {
     text-decoration: underline;
 }
-h1,h2,h3 {
-    font-family:'Calibri';
+body {
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #333;
 }
-h1{ font-size: 450%;
+
+h1, h2, h3 {
+  font-family: "Helvetica Neue", sans-serif;
+  color: #333;
 }
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
 h2 {
-    font-size: 320%;
-}
-h6 {
-    font-size: 150%;
-}
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
-    font-family:'Calibri';
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+  font-size: 18px;
+  margin-bottom: 8px;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
+h3 {
+  font-size: 16px;
+  margin-bottom: 6px;
 }
 
-ul.posts li {
-    list-style: none;
+a {
+  color: #1b9cfc;
+  text-decoration: none;
 }
+
+a:hover {
+  color: #333;
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.job-listing {
+  margin-bottom: 20px;
+}
+
+.job-title {
+  font-size: 18px;
+  margin-bottom: 4px;
+}
+
+.job-company {
+  font-size: 16px;
+  color: #999;
+  margin-bottom: 4px;
+}
+
+.job-location {
+  font-size: 14px;
+  color: #999;
+  margin-bottom: 4px;
+}
+
+.job-description {
+  font-size: 14px;
+  margin
